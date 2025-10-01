@@ -42,20 +42,6 @@ export default function Navbar() {
               OCTWAVE
             </span>
           </Link>
-
-          {/* Right: Register/Back to Home button */}
-
-          <div className="flex items-center gap-2">
-            {isRegisterPage ? (
-              <Link href="/" className="btn-primary">
-                ← Back to Home
-              </Link>
-            ) : (
-              <Link href="/register" className="btn-primary">
-                Register
-              </Link>
-            )}
-          </div>
         </nav>
       </div>
 

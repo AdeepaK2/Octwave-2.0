@@ -239,7 +239,9 @@ export default function Home() {
               dashAnimation.showContent ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
             }`}
           >
-            <a href="/register" className="btn-primary">Register Now</a>
+            <button className="btn-primary cursor-not-allowed opacity-60" disabled>
+              Registration Closed
+            </button>
           </div>
           </div>
         </div>
