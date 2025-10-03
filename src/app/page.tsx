@@ -385,7 +385,7 @@ export default function Home() {
                     </p>
                     <div className="bg-gradient-to-r from-blue-500/10 to-purple-500/10 rounded-lg p-3 border border-blue-300/30">
                       <p className="text-xs font-semibold text-blue-800 dark:text-blue-300">
-                        📅 Initial Round (Kaggle): October 6th, 2025
+                        📅 Initial Round (Kaggle): October 4th - 6th, 2025
                       </p>
                     </div>
                   </div>
